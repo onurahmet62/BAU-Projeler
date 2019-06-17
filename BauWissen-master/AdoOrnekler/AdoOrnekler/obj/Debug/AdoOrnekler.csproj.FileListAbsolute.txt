@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\bin\Debug\AdoOrnekler.exe.config
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\bin\Debug\AdoOrnekler.exe
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\bin\Debug\AdoOrnekler.pdb
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.Form1.resources
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.Properties.Resources.resources
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.exe
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.pdb
+C:\Users\Section2\source\repos\AdoOrnekler\AdoOrnekler\obj\Debug\AdoOrnekler.Form2.resources

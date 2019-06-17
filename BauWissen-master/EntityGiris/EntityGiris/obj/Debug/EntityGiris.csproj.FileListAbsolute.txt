@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityGiris.exe.config
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityGiris.exe
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityGiris.pdb
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.Form1.resources
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.Properties.Resources.resources
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.exe
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.pdb
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\EntityGiris\EntityGiris\obj\Debug\EntityGiris.csproj.CopyComplete

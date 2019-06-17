@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\bin\Debug\StringParcalaBirlestir.exe.config
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\bin\Debug\StringParcalaBirlestir.exe
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\bin\Debug\StringParcalaBirlestir.pdb
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.Form1.resources
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.Properties.Resources.resources
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.exe
+C:\Users\Section2\source\repos\StringParcalaBirlestir\StringParcalaBirlestir\obj\Debug\StringParcalaBirlestir.pdb

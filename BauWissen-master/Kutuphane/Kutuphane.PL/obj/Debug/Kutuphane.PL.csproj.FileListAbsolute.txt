@@ -1,0 +1,17 @@
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.PL.exe.config
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.PL.exe
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.PL.pdb
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.BLL.dll
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.EntityLayer.dll
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.FacadeLayer.dll
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.BLL.pdb
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.EntityLayer.pdb
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\bin\Debug\Kutuphane.FacadeLayer.pdb
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.frmKitap.resources
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.Properties.Resources.resources
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.csproj.CopyComplete
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.exe
+C:\Users\Section2\source\repos\Kutuphane\Kutuphane.PL\obj\Debug\Kutuphane.PL.pdb

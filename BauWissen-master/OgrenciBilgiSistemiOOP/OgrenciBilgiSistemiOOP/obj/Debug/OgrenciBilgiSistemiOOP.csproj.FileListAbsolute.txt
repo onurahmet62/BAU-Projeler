@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\bin\Debug\OgrenciBilgiSistemiOOP.exe.config
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\bin\Debug\OgrenciBilgiSistemiOOP.exe
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\bin\Debug\OgrenciBilgiSistemiOOP.pdb
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.Forms.FormGiris.resources
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.Form1.resources
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.Properties.Resources.resources
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.exe
+C:\Users\Section2\source\repos\OgrenciBilgiSistemiOOP\OgrenciBilgiSistemiOOP\obj\Debug\OgrenciBilgiSistemiOOP.pdb

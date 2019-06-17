@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\PerformansKiyaslama.exe.config
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\PerformansKiyaslama.exe
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\PerformansKiyaslama.pdb
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.Form1.resources
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.Properties.Resources.resources
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.csproj.CopyComplete
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.exe
+C:\Users\Section2\source\repos\PerformansKiyaslama\PerformansKiyaslama\obj\Debug\PerformansKiyaslama.pdb

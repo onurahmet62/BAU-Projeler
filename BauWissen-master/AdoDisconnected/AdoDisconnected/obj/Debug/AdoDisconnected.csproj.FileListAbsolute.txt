@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\bin\Debug\AdoDisconnected.exe.config
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\bin\Debug\AdoDisconnected.exe
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\bin\Debug\AdoDisconnected.pdb
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.Form1.resources
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.Properties.Resources.resources
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.exe
+C:\Users\Section2\source\repos\AdoDisconnected\AdoDisconnected\obj\Debug\AdoDisconnected.pdb

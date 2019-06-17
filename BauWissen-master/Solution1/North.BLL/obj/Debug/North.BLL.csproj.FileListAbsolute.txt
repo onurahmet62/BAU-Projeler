@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.BLL.dll.config
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.BLL.dll
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.BLL.pdb
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.DAL.dll
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.DAL.pdb
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\North.DAL.dll.config
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\Solution1\North.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\Solution1\North.BLL\obj\Debug\North.BLL.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Solution1\North.BLL\obj\Debug\North.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Solution1\North.BLL\obj\Debug\North.BLL.csproj.CopyComplete
+C:\Users\Section2\source\repos\Solution1\North.BLL\obj\Debug\North.BLL.dll
+C:\Users\Section2\source\repos\Solution1\North.BLL\obj\Debug\North.BLL.pdb

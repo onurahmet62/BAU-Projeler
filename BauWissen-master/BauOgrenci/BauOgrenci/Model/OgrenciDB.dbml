@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Bau503Ogrenci" Class="OgrenciDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Bau503Ogrenci;User ID=sa" SettingsObjectName="BauOgrenci.Properties.Settings" SettingsPropertyName="Bau503OgrenciConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblDers" Member="tblDers">
+    <Type Name="tblDer">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DersAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblDer_tblOgrenci" Member="tblOgrencis" ThisKey="Id" OtherKey="DersId" Type="tblOgrenci" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblEgitmen" Member="tblEgitmens">
+    <Type Name="tblEgitmen">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EgitmenAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tblEgitmen_tblOgrenci" Member="tblOgrencis" ThisKey="Id" OtherKey="EgitmenId" Type="tblOgrenci" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblOgrenci" Member="tblOgrencis">
+    <Type Name="tblOgrenci">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OgrAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrSoyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OgrNo" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DersId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EgitmenId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tblDer_tblOgrenci" Member="tblDer" ThisKey="DersId" OtherKey="Id" Type="tblDer" IsForeignKey="true" />
+      <Association Name="tblEgitmen_tblOgrenci" Member="tblEgitmen" ThisKey="EgitmenId" OtherKey="Id" Type="tblEgitmen" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

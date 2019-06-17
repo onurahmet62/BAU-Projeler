@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="OgrenciDB">
+  <DataContextMoniker Name="/OgrenciDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="95f08e67-94d8-4952-a0eb-8c82b8346dda" absoluteBounds="1.25, 0.875, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/OgrenciDBDataContext/tblDer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8604475e-89f1-48d2-ae6d-5f7a79e78498" absoluteBounds="1.2650000000000001, 1.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ebaeed4d-8b00-407e-a4b7-b0aa19b0c17d" absoluteBounds="1.25, 3.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/OgrenciDBDataContext/tblEgitmen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="166b710e-3664-406f-bd65-180e8c80a03b" absoluteBounds="1.2650000000000001, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c44d0728-0af7-4ff5-85af-e536dca27410" absoluteBounds="4, 0.5, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/OgrenciDBDataContext/tblOgrenci" />
+      <nestedChildShapes>
+        <elementListCompartment Id="59b81194-4287-4401-b49e-02bb347f31ee" absoluteBounds="4.0150000000000006, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.25 : 1.47199625651042); (4 : 1.47199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OgrenciDBDataContext/tblDer/tblDer_tblOgrenci" />
+      <nodes>
+        <classShapeMoniker Id="95f08e67-94d8-4952-a0eb-8c82b8346dda" />
+        <classShapeMoniker Id="c44d0728-0af7-4ff5-85af-e536dca27410" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.25 : 4.47199625651042); (5 : 4.47199625651042); (5 : 2.4631982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OgrenciDBDataContext/tblEgitmen/tblEgitmen_tblOgrenci" />
+      <nodes>
+        <classShapeMoniker Id="ebaeed4d-8b00-407e-a4b7-b0aa19b0c17d" />
+        <classShapeMoniker Id="c44d0728-0af7-4ff5-85af-e536dca27410" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

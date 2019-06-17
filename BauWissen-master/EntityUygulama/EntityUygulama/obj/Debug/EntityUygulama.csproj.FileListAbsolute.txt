@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityUygulama.exe.config
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityUygulama.exe
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityUygulama.pdb
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.Form1.resources
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.Properties.Resources.resources
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.csproj.CopyComplete
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.exe
+C:\Users\Section2\source\repos\EntityUygulama\EntityUygulama\obj\Debug\EntityUygulama.pdb

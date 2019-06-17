@@ -1,0 +1,13 @@
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\bin\Debug\PersonelTakipOtomasyonu.exe.config
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\bin\Debug\PersonelTakipOtomasyonu.exe
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\bin\Debug\PersonelTakipOtomasyonu.pdb
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.Form1.resources
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.Properties.Resources.resources
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.exe
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.pdb
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.Forms.Detayli.resources
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.Forms.Update.resources
+C:\Users\Section2\source\repos\PersonelTakipOtomasyonu\PersonelTakipOtomasyonu\obj\Debug\PersonelTakipOtomasyonu.Forms.İnsert.resources

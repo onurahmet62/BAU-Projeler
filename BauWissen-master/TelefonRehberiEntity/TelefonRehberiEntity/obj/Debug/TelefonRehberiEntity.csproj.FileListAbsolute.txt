@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\TelefonRehberiEntity.exe.config
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\TelefonRehberiEntity.exe
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\TelefonRehberiEntity.pdb
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.Form1.resources
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.Properties.Resources.resources
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.csproj.CopyComplete
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.exe
+C:\Users\Section2\source\repos\TelefonRehberiEntity\TelefonRehberiEntity\obj\Debug\TelefonRehberiEntity.pdb

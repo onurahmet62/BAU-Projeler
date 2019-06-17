@@ -1,0 +1,13 @@
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\bin\Debug\BauOgrenci.exe.config
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\bin\Debug\BauOgrenci.exe
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\bin\Debug\BauOgrenci.pdb
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.Bilgi.frmEgitmenGiris.resources
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.frmAnaSayfa.resources
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.Properties.Resources.resources
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.exe
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.pdb
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.Bilgi.frmDersGiris.resources
+C:\Users\Section2\source\repos\BauOgrenci\BauOgrenci\obj\Debug\BauOgrenci.Bilgi.frmOgrenciGiris.resources

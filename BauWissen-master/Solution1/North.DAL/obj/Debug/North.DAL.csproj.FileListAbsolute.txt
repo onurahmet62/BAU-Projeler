@@ -1,0 +1,12 @@
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\North.DAL.dll.config
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\North.DAL.dll
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\North.DAL.pdb
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\Solution1\North.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\Solution1\North.DAL\obj\Debug\North.DAL.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\Solution1\North.DAL\obj\Debug\North.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Solution1\North.DAL\obj\Debug\North.DAL.csproj.CopyComplete
+C:\Users\Section2\source\repos\Solution1\North.DAL\obj\Debug\North.DAL.dll
+C:\Users\Section2\source\repos\Solution1\North.DAL\obj\Debug\North.DAL.pdb

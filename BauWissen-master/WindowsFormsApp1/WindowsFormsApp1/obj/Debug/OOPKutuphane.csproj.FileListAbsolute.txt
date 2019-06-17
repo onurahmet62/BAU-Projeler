@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOPKutuphane.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKitap.resources
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.FormGiris.resources
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOPKutuphane.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\OOPKutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Section2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

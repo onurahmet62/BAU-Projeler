@@ -1,0 +1,15 @@
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntitySorgular.exe.config
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntitySorgular.exe
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntitySorgular.pdb
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.Form1.resources
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.Properties.Resources.resources
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.csproj.CopyComplete
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.exe
+C:\Users\Section2\source\repos\EntitySorgular\EntitySorgular\obj\Debug\EntitySorgular.pdb
